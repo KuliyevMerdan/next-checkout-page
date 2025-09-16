@@ -11,7 +11,7 @@ git clone https://github.com/KuliyevMerdan/next-checkout-page.git
 
 ### 2. Navigate into the project folder
 ```bash
-cd your-repo-name
+cd next-checkout-page
 ```
 
 ### 3. Install dependencies
